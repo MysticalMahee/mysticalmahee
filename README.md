@@ -2,7 +2,7 @@
 
 
 
-**MSci Chemistry Student (UCL) & Aspiring analytical Chemist** ⚗️💻
+**MSci Chemistry Student (UCL) & Aspiring Analytical Chemist** ⚗️💻
 
 
 
