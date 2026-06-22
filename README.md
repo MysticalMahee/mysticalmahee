@@ -14,7 +14,7 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
  
 | Category | Tools |
 |---|---|
-| **Programming** | Python (Pandas, NumPy), SQL (SSMS) |
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (SSMS) |
 | **Data** | ETL Pipelines, Data Cleansing, Relational DBs |
 | **Scientific** | ChemDraw, OriginLab, Google Colab, VS Code |
 | **General** | Git/GitHub, Microsoft Excel (Advanced) |
