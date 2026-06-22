@@ -23,7 +23,7 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
 
  ### 🚀 What I'm Doing
 
-* 🎓 **Studying:** MSci Chemistry at University College London (UCL), specializing in Quantum Mechanics, Statistical Thermodynamics, and Advanced Mathematics (Linear Algebra, Advanced Calculus, Differential Equations).
+* 🎓 **Studying:** MSci Chemistry at University College London (UCL), with strong interests in Quantum Mechanics, Statistical Thermodynamics, Kinetics and Advanced Mathematics (Linear Algebra, Advanced Calculus, Differential Equations).
 
 * 💻 **Building:** End-to-end ETL pipelines. I recently developed a Python/SQL architecture to normalize and analyze the thermodynamic properties and lipophilicity (LogP) of over 4,000+ organic molecules.
 
