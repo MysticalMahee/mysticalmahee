@@ -27,7 +27,7 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
 
 * 💻 **Building:** End-to-end ETL pipelines. I recently developed a Python/SQL architecture to normalize and analyze the thermodynamic properties and lipophilicity (LogP) of over 4,000+ organic molecules.
 
-* 🌱 **Currently Learning:** Advanced SQL, Python, computational modeling for chemical datasets and Chemistry based Machine Learning.
+* 🌱 **Currently Learning:** Advanced SQL, Python, computational modeling for chemical datasets and Machine Learning for Chemistry.
 ---
 
 # 💻 Tech Stack:
