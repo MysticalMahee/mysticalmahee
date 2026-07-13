@@ -14,10 +14,10 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
  
 | Category | Tools |
 |---|---|
-| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (SSMS) |
+| **Programming** | Python (Pandas, NumPy, Matplotlib, SciPy, Seaborn), SQL (SSMS) |
 | **Data** | ETL Pipelines, Data Cleansing, Relational DBs |
 | **Scientific** | ChemDraw, OriginLab, Google Colab, VS Code |
-| **General** | Git/GitHub, Microsoft Excel |
+| **General** | GitHub, Microsoft Excel |
 
 ---
 
@@ -25,9 +25,7 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
 
 * 🎓 **Studying:** MSci Chemistry at University College London (UCL), with strong interests in Quantum Mechanics, Statistical Thermodynamics, Kinetics and Advanced Mathematics (Linear Algebra, Advanced Calculus, Differential Equations).
 
-* 💻 **Building:** End-to-end ETL pipelines. I recently developed a Python/SQL architecture to normalize and analyze the thermodynamic properties and lipophilicity (LogP) of over 4,000+ organic molecules.
-
-* 🌱 **Currently Learning:** Advanced SQL, Python, computational modeling for chemical datasets and Machine Learning for Chemistry.
+* 🌱 **Currently Learning:** Advanced SQL, Python, Computational modelling for chemical datasets and Machine Learning for Chemistry.
 ---
 
 # 💻 Tech Stack:
@@ -37,8 +35,6 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
 ![](https://streak-stats.demolab.com/?user=MysticalMahee&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MysticalMahee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MysticalMahee&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MysticalMahee&limit=5&theme=dark&combine_all_yearly_contributions=true)
