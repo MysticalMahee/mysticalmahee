@@ -14,10 +14,12 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
  
 | Category | Tools |
 |---|---|
-| **Programming** | Python (Pandas, NumPy, Matplotlib, SciPy, Seaborn), SQL (SSMS) |
-| **Data** | ETL Pipelines, Data Cleansing, Relational DBs |
-| **Scientific** | ChemDraw, OriginLab, Google Colab, VS Code |
-| **General** | GitHub, Microsoft Excel |
+| **Languages** | Languages: Python, SQL, LaTeX |
+| **Libraries** | Pandas, NumPy, Matplotlib, SciPy, RDKit |
+| **Scientific** | ChemDraw, OriginLab, Google Colab, VS Code, SQL (SSMS) |
+| **Developer Tools** | Git, GitHub, VS Code, PyCharm, Google Colab, SSMS |
+| **Scientific Software** | CRYSTAL23, VESTA, FDMNES, Ovito, ChemDraw, OriginLab, Microsoft Excel |
+| **Laboratory** | UV-Vis, NMR, IR Spectroscopy, TLC, Colorimetric Analysis |
 
 ---
 
@@ -25,7 +27,7 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
 
 * 🎓 **Studying:** MSci Chemistry at University College London (UCL), with strong interests in Quantum Mechanics, Statistical Thermodynamics, Kinetics and Advanced Mathematics (Linear Algebra, Advanced Calculus, Differential Equations).
 
-* 🌱 **Currently Learning:** Advanced SQL, Python, Computational modelling for chemical datasets and Machine Learning for Chemistry.
+* 🌱 **Currently Learning:** SQL, Python, Computational modelling for Chemical Datasets and Machine Learning for Chemistry.
 ---
 
 # 💻 Tech Stack:
