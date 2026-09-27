@@ -15,7 +15,7 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
 | Category | Tools |
 |---|---|
 | **Languages** | Python, SQL, LaTeX |
-| **Libraries** | Pandas, NumPy, Matplotlib, SciPy, RDKit |
+| **Libraries** | Pandas, NumPy, Matplotlib, SciPy,|
 | **Developer Tools** | GitHub, VS Code, PyCharm, Google Colab, SSMS |
 | **Scientific Software** | CRYSTAL23, VESTA, FDMNES, Ovito, ChemDraw, OriginLab, Microsoft Excel |
 | **Laboratory** | UV-Vis, NMR, IR Spectroscopy, TLC, Colorimetric Analysis |
