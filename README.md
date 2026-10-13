@@ -24,8 +24,7 @@ I am a highly quantitative chemistry student bridging the gap between macroscopi
 
  ### 🚀 What I'm Doing
 
-* 🎓 **Studying:** MSci Chemistry at University College London (UCL), with strong interests in Quantum Mechanics, Statistical Thermodynamics, Kinetics and Advanced Mathematics (Linear Algebra, Advanced Calculus, Differential Equations).
-
+* 🎓 **Studying:** MSci Chemistry at University College London (UCL), with strong interests in Quantum Mechanics, Advanced Mathematics for Chemistry and Physics and Computational Chemistry.
 * 🌱 **Currently Learning:** SQL, Python, Computational modelling for Chemical Datasets and Machine Learning for Chemistry.
 ---
 
